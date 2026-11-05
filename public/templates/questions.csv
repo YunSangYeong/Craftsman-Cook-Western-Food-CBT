@@ -1,0 +1,2 @@
+id,subject,topic,question,answer,explanation,difficulty,year,session,type,sourceUrl,verificationStatus,reviewNote,version,rights,choice1,choice2,choice3,choice4
+LOCAL-EXAMPLE-001,"양식 재료관리, 음식조리 및 위생관리",개인위생,사용자가 작성한 손 씻기 연습문항: 비누로 씻는 주된 목적은?,4,비누와 마찰은 손에 붙은 오염물을 제거하는 데 도움을 준다. 손 씻기는 멸균이 아니며 장갑 착용 중에도 필요한 시점에 반복한다.,하,,,original,https://github.com/YunSangYeong/Craftsman-Cook-Western-Food-CBT,pending,직접 확인한 근거를 기록하세요.,western-main,"자체 제작 · CC BY 4.0 · AI 보조 작성, 저장소 기여자 표기 및 변경 고지",손을 완전히 멸균한다,손톱 밑에 향을 남긴다,장갑을 영구적으로 대체한다,손의 오염물을 떨어뜨리고 미생물을 줄인다
